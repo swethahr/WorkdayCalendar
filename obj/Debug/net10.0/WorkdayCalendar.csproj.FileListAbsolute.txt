@@ -1,0 +1,14 @@
+/Users/apple/Desktop/WorkdayCalendar/bin/Debug/net10.0/WorkdayCalendar
+/Users/apple/Desktop/WorkdayCalendar/bin/Debug/net10.0/WorkdayCalendar.deps.json
+/Users/apple/Desktop/WorkdayCalendar/bin/Debug/net10.0/WorkdayCalendar.runtimeconfig.json
+/Users/apple/Desktop/WorkdayCalendar/bin/Debug/net10.0/WorkdayCalendar.dll
+/Users/apple/Desktop/WorkdayCalendar/bin/Debug/net10.0/WorkdayCalendar.pdb
+/Users/apple/Desktop/WorkdayCalendar/obj/Debug/net10.0/WorkdayCalendar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/WorkdayCalendar/obj/Debug/net10.0/WorkdayCalendar.AssemblyInfoInputs.cache
+/Users/apple/Desktop/WorkdayCalendar/obj/Debug/net10.0/WorkdayCalendar.AssemblyInfo.cs
+/Users/apple/Desktop/WorkdayCalendar/obj/Debug/net10.0/WorkdayCalendar.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/WorkdayCalendar/obj/Debug/net10.0/WorkdayCalendar.dll
+/Users/apple/Desktop/WorkdayCalendar/obj/Debug/net10.0/refint/WorkdayCalendar.dll
+/Users/apple/Desktop/WorkdayCalendar/obj/Debug/net10.0/WorkdayCalendar.pdb
+/Users/apple/Desktop/WorkdayCalendar/obj/Debug/net10.0/WorkdayCalendar.genruntimeconfig.cache
+/Users/apple/Desktop/WorkdayCalendar/obj/Debug/net10.0/ref/WorkdayCalendar.dll
