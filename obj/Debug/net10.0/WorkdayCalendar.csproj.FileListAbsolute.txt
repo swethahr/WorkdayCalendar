@@ -12,3 +12,4 @@
 /Users/apple/Desktop/WorkdayCalendar/obj/Debug/net10.0/WorkdayCalendar.pdb
 /Users/apple/Desktop/WorkdayCalendar/obj/Debug/net10.0/WorkdayCalendar.genruntimeconfig.cache
 /Users/apple/Desktop/WorkdayCalendar/obj/Debug/net10.0/ref/WorkdayCalendar.dll
+/Users/apple/Desktop/WorkdayCalendar/obj/Debug/net10.0/WorkdayCalendar.sourcelink.json
